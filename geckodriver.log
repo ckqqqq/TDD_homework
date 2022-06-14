@@ -1,0 +1,100 @@
+1655135478168	geckodriver	INFO	Listening on 127.0.0.1:51549
+1655135481209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\12271\\AppData\\Local\\Temp\\rust_mozprofile8z9N35"
+1655135481560	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\12271\\AppData\\Local\\Temp\\rust_mozprofile8z9N35\\search.json.mozlz4", (void 0)))
+1655135483075	Marionette	INFO	Listening on port 51571
+Read port: 51571
+1655135483187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655135506853	Marionette	INFO	Stopped listening on port 51571
+[Parent 1672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 1672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 1672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1655135766495	geckodriver	INFO	Listening on 127.0.0.1:51752
+1655135769575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\12271\\AppData\\Local\\Temp\\rust_mozprofileHlgkuJ"
+1655135769893	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\12271\\AppData\\Local\\Temp\\rust_mozprofileHlgkuJ\\search.json.mozlz4", (void 0)))
+1655135771348	Marionette	INFO	Listening on port 51775
+Read port: 51775
+1655135771444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655135777838	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1655135777928	Marionette	INFO	Stopped listening on port 51775
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 26612, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1655135802615	geckodriver	INFO	Listening on 127.0.0.1:51798
+1655135805641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\12271\\AppData\\Local\\Temp\\rust_mozprofileKP87Oy"
+1655135805960	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\12271\\AppData\\Local\\Temp\\rust_mozprofileKP87Oy\\search.json.mozlz4", (void 0)))
+1655135807247	Marionette	INFO	Listening on port 51820
+Read port: 51820
+1655135807294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655135807486	Marionette	INFO	Stopped listening on port 51820
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_CreateAudioIPCConnection) Channel closing: too late to send/recv, messages will be lost
+
+1655185917484	geckodriver	INFO	Listening on 127.0.0.1:52317
+1655185920556	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\12271\\AppData\\Local\\Temp\\rust_mozprofileOljuo1"
+1655185921000	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\12271\\AppData\\Local\\Temp\\rust_mozprofileOljuo1\\search.json.mozlz4", (void 0)))
+1655185922491	Marionette	INFO	Listening on port 52340
+Read port: 52340
+1655185922572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655185929019	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1655185929155	Marionette	INFO	Stopped listening on port 52340
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655186131615	geckodriver	INFO	Listening on 127.0.0.1:52661
+1655186134686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\12271\\AppData\\Local\\Temp\\rust_mozprofile6DfIF0"
+1655186135023	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\12271\\AppData\\Local\\Temp\\rust_mozprofile6DfIF0\\search.json.mozlz4", (void 0)))
+1655186136386	Marionette	INFO	Listening on port 52693
+Read port: 52693
+1655186136451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655186142844	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1655186142933	Marionette	INFO	Stopped listening on port 52693
+[Parent 25780, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655186182720	geckodriver	INFO	Listening on 127.0.0.1:52782
+1655186185774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\12271\\AppData\\Local\\Temp\\rust_mozprofilexJth1a"
+1655186186117	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\12271\\AppData\\Local\\Temp\\rust_mozprofilexJth1a\\search.json.mozlz4", (void 0)))
+1655186187622	Marionette	INFO	Listening on port 52814
+Read port: 52814
+1655186187645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655186194075	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1655186194183	Marionette	INFO	Stopped listening on port 52814
+[Parent 20716, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 20716, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 20716, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655186418377	geckodriver	INFO	Listening on 127.0.0.1:53119
+1655186421457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\12271\\AppData\\Local\\Temp\\rust_mozprofilem8pOpt"
+1655186421778	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\12271\\AppData\\Local\\Temp\\rust_mozprofilem8pOpt\\search.json.mozlz4", (void 0)))
+1655186423100	Marionette	INFO	Listening on port 53143
+Read port: 53143
+1655186423221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655186429622	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1655186429705	Marionette	INFO	Stopped listening on port 53143
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 28500, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1655186496477	geckodriver	INFO	Listening on 127.0.0.1:53239
+1655186499538	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\12271\\AppData\\Local\\Temp\\rust_mozprofilekSf83N"
+1655186499862	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\12271\\AppData\\Local\\Temp\\rust_mozprofilekSf83N\\search.json.mozlz4", (void 0)))
+1655186501293	Marionette	INFO	Listening on port 53266
+Read port: 53266
+1655186501409	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655186501532	Marionette	INFO	Stopped listening on port 53266
