@@ -5,13 +5,13 @@ from django.http import HttpRequest
 from django.template.loader import render_to_string
 from lists.models import Item, List
 
-
+#这个是主页的配置
 class HomePageTest(TestCase):
     def test_uses_home_template(self):
         response = self.client.get('/')
         self.assertTemplateUsed(response, 'home.html')
 
-
+#
 class ListAndItemModelTest(TestCase):
 
     def test_saving_and_retrieving_items(self):
